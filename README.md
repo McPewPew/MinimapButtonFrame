@@ -26,6 +26,8 @@ If Active Scanning is off they will not be gathered unless you do a < /mbf scan 
 - Extract the archive
 - Copy "MinimapButtonFrame" folder into your "\<WOW FOLDER>/Interface/Addons/" directory
 - Optionaly (if you have FuBar) copy "MinimapButtonFrameFu" folder into your "\<WOW FOLDER>/Interface/Addons/" directory  
+(MinimapButtonFrameFu has been moved to - https://github.com/McPewPew/MinimapButtonFrameFu)
+
 
 
 # Commands:
